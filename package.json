@@ -3,7 +3,9 @@
   "name": "tenpest",
   "version": "0.0.0",
   "scripts": {
-    "start": "electric"
+    "build": "el build",
+    "dev": "el run",
+    "deploy": "cd dist/ && we deploy -p tenpest"
   },
   "devDependencies": {
     "electric-cli": "^2.2.0",

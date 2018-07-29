@@ -10,5 +10,13 @@ module.exports = {
 	vendorSrc: ['node_modules/marble/build/fonts/**'],
 	deployOptions: {
 		branch: 'wedeploy'
+	},
+	apiConfig: {
+		project: {
+			refs: ['electric@2.4.1'],
+			repo: 'site',
+			user: 'tenpestaerodesign',
+			src: 'src/'
+		}
 	}
 };
