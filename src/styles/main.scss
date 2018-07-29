@@ -1,0 +1,26 @@
+$accent: #FDCB2F;
+
+@import "marble";
+
+// Root
+@import "templates/root";
+.content {
+    padding-top: 25px;
+}
+// Landing
+@import "templates/landing";
+
+// Docs
+@import "templates/docs";
+
+// Search
+@import "templates/search";
+
+// Updates
+@import "templates/updates";
+
+// Blog
+@import "templates/blog";
+
+// Tutorial
+@import "templates/tutorial";

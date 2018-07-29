@@ -1,0 +1,201 @@
+---
+title: "Home"
+description: "Uma equipe apaixonada por Pernambuco e coisas que voam."
+---
+
+{namespace pageIndex}
+
+/**
+ */
+{template .render}
+	{@param site: ?}
+
+	{call main.render data="all"}
+		{param content kind="html"}
+			{call .header data="all" /}
+			{call .why /}
+			{call .features /}
+			{call .how /}
+			{call .highlights /}
+			{call .interested /}
+			{call Footer.render data="all" /}
+		{/param}
+	{/call}
+{/template}
+
+/**
+ */
+{template .header}
+	{@param site: ?}
+
+	<header class="header">
+		<div class="container">
+			<figure class="logo">
+				<img src="/images/logo-tenpest.svg" alt="Tenpest Logo"></img>
+			</figure>
+			<h1 class="header-title">{$site.title}</h1>
+			<h2 class="header-subtitle">{$site.index.description}</h2>
+			<div class="header-cta">
+				<a href="/docs/" class="btn btn-accent">Informações</a>
+				<a href="/docs/contato" class="btn btn-default">Contato</a>
+			</div>
+		</div>
+	</header>
+{/template}
+
+/**
+ */
+{template .why}
+	<article id="about" class="about">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 col-md-offset-2">
+					<h3 class="about-title">Somos a Tenpest ⚡</h3>
+					<p class="about-description">
+							Somos um grupo de estudo e pesquisa na área de aerodinâmica da Universidade de Pernambuco que tem o objetivo de preparar os estudantes para exercer atividade não só acadêmicas, mas também gerenciais dentro da academia.
+						Dessa forma, além de projetar uma aeronave, de acordo com os requisitos da competição, os integrantes da equipe têm como função gerir o projeto em todas suas etapas: dimensionamento, compras, montagem, arrecadação de verba e competição. O plano de trabalho é focado na competição SAE Brasil Aerodesign que ocorre nos meses de outubro e novembro.
+						A equipe é formada por 10 participantes, todos graduandos nas diversas modalidades de engenharia pela Universidade de Pernambuco (Mecânica, Eletrotécnica, Eletrônica, Computação, Civil, Automação e Controle e Telecomunicações). Como professor orientador, o projeto conta com o Prof. Gilfran Milfont, o mesmo também coordenador do curso de Engenharia Mecânica Industrial da UPE.
+					</p>
+					<br />
+					<img class="highlight-image" src="http://placehold.it/500x400/e7e8e8/64696d" alt="Placeholder">
+				</div>
+			</div>
+		</div>
+	</article>
+{/template}
+
+/**
+ */
+{template .features}
+	<div id="features" class="features">
+		<div class="container">
+			<div class="row">
+				<section class="feature col-md-4 col-md-offset-2">
+					<div class="feature-graphic">
+						<span class="icon-16-bullhorn"></span>
+					</div>
+					<h3 class="feature-title">Missão</h3>
+					<p class="feature-description">Desenvolver as habilidades pessoais e profissionais dos estudantes da Universidade de Pernambuco, através de projetos inovadores, capacitando-os a servir à sociedade assumindo os cargos de liderança no cenário regional e nacional</p>
+				</section>
+				<section class="feature col-md-4">
+					<div class="feature-graphic">
+						<span class="icon-16-lock"></span>
+					</div>
+					<h3 class="feature-title">Visão</h3>
+					<p class="feature-description">Estar entre as 10 melhores equipes de aerodesign do país agregando sempre soluções inovadoras aos projetos desenvolvidos , bem como consolidar um grupo de pesquisa envolvendo os diversos ramos da engenharia focando o desenvolvimento em suas diversas áreas e, dessa forma, oferecer profissionais qualificados à sociedade</p>
+				</section>
+				<section class="feature col-md-4">
+					<div class="feature-graphic">
+						<span class="icon-16-calendar"></span>
+					</div>
+					<h3 class="feature-title">Valores</h3>
+					<p class="feature-description">Incentivar o trabalho em equipe e um ambiente proativo que contribua com a formação do estudante da Universidade de Pernambuco, além de incentivar o aperfeiçoamento de forma constante de seus integrantes</p>
+				</section>
+			</div>
+		</div>
+	</div>
+{/template}
+
+/**
+ */
+{template .how}
+	<article id="about" class="about">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 col-md-offset-2">
+					<h3 class="about-title">Processo Seletivo</h3>
+					<p class="about-description">
+						Fazemos nosso processo seletivo uma vez por ano no final do ano, pelos meses de novembro e dezembro.
+						Uma vez que você for aprovado irá participar dos nossos treinamentos e atividades de imersão durante as férias de janeiro.
+						<br />
+						Sinta-se à vontade para chegar na nossa oficina e trocar ideia e conversar sobre assuntos relacionados, iremos receber-lo de braços abertos. ✈️
+					</p>
+				</div>
+			</div>
+		</div>
+	</article>
+{/template}
+
+/**
+ */
+{template .highlights}
+	<div id="highlights" class="highlights">
+		<div class="container">
+			<section class="highlight row">
+				<div class="col-md-6 col-md-offset-2">
+					<h3 class="feature-title">
+						Edições
+					</h3>
+					<p class="feature-description">
+						Um breve resuminho sobre o que fizemos nas últimas edições do SAE Aerodesign Brasil
+					</p>
+				</div>
+			</section>
+			<section class="highlight row">
+				<div class="col-md-6 col-md-offset-2">
+					<h4 class="highlight-title">2018</h4>
+					<p class="highlight-description">Descrição curta de com conquistas 2018</p>
+				</div>
+				<div class="col-md-5 col-md-offset-1">
+					<img class="highlight-image" src="http://placehold.it/500x400/e7e8e8/64696d" alt="Placeholder">
+				</div>
+			</section>
+			<section class="highlight row">
+				<div class="col-md-6 col-md-push-9">
+					<h4 class="highlight-title">2017</h4>
+					<p class="highlight-description">Descrição curta de com conquistas 2017</p>
+				</div>
+				<div class="col-md-5 col-md-offset-2 col-md-pull-6">
+					<img class="highlight-image" src="http://placehold.it/500x400/e7e8e8/64696d" alt="Placeholder">
+				</div>
+			</section>
+			<section class="highlight row">
+				<div class="col-md-6 col-md-offset-2">
+					<h4 class="highlight-title">2016</h4>
+					<p class="highlight-description">Descrição curta de com conquistas 2016</p>
+				</div>
+				<div class="col-md-5 col-md-offset-1">
+					<img class="highlight-image" src="http://placehold.it/500x400/e7e8e8/64696d" alt="Placeholder">
+				</div>
+			</section>
+			<section class="highlight row">
+				<div class="col-md-6 col-md-push-9">
+					<h4 class="highlight-title">2015</h4>
+					<p class="highlight-description">Descrição curta de com conquistas 2015</p>
+				</div>
+				<div class="col-md-5 col-md-offset-2 col-md-pull-6">
+					<img class="highlight-image" src="http://placehold.it/500x400/e7e8e8/64696d" alt="Placeholder">
+				</div>
+			</section>
+			<section class="highlight row">
+				<div class="col-md-6 col-md-offset-2">
+					<h4 class="highlight-title">2014</h4>
+					<p class="highlight-description">Descrição curta de com conquistas 2014</p>
+				</div>
+				<div class="col-md-5 col-md-offset-1">
+					<img class="highlight-image" src="http://placehold.it/500x400/e7e8e8/64696d" alt="Placeholder">
+				</div>
+			</section>
+		</div>
+	</div>
+{/template}
+
+/**
+ */
+{template .interested}
+	<article id="interested" class="about">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 col-md-offset-2">
+					<h3 class="about-title">Ficou interessado?</h3>
+					<p class="about-description">
+						Quer saber de mais informações?
+					</p>
+					<br />
+					<a class="btn btn-accent" href="/docs/">Veja aqui</a>
+					<br />
+				</div>
+			</div>
+		</div>
+	</article>
+{/template}
