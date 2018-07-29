@@ -3,7 +3,6 @@ title: "Patrocinadores"
 description: "Nessa seção você pode encontrar os melhores patrocinadores que existem <3"
 layout: "guide"
 icon: "people"
-weight: 2
 ---
 
 ###### {$page.description}

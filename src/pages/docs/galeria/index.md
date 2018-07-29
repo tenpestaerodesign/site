@@ -3,7 +3,6 @@ title: "Galeria"
 description: "Nossas lindas fotíneas"
 layout: "guide"
 icon: "image"
-weight: 4
 ---
 
 ###### {$page.description}
