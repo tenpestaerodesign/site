@@ -9,44 +9,38 @@ icon: "flash"
 
 <article id="1">
 
-## Lorem ipsum dolor sit amet
+## SAE Aerodesign Brasil
 
-```xml
-<p>Test, test, test</p>
-```
+<figure>
+    <img src="http://portal.saebrasil.org.br/portals/0/Images/AERODESIGN%201.png" alt="Simbolo SAE Aerodesign Brasil"></img>
+</figure>
 
-Nam eu lobortis ipsum. Sed iaculis, lectus pharetra vehicula luctus, lacus sapien malesuada lacus, non convallis dui mauris a magna. Donec accumsan mi lorem, quis mollis sem tempor vel. Fusce iaculis facilisis accumsan. Sed tempus aliquam nisi, eget commodo quam sodales ut. Duis lacus velit, fringilla congue aliquet nec, vulputate vitae nulla. Aenean ultricies risus vel sapien tincidunt, nec hendrerit purus aliquam. Quisque varius accumsan condimentum. Aliquam erat volutpat.
+<br />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nulla libero, eleifend in euismod eget, fringilla id diam. Proin quis interdum ipsum. Fusce eros metus, hendrerit ut egestas nec, sagittis id velit.
+##### O que é a SAE ?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nulla libero, eleifend in euismod eget, fringilla id diam. Proin quis interdum ipsum. Fusce eros metus, hendrerit ut egestas nec, sagittis id velit.
+Iniciada em 1905 nos Estados Unidos, a SAE (Society of Automotive Engineers) é uma entidade que reúne mais de 85.000 associados entre engenheiros, executivos e técnicos em mais de 90 países.
 
-</article>
+A divisão brasileira, a SAE Brasil, é uma associação sem fins lucrativos que tem como objetivo a disseminação da técnica e de conhecimentos relativos à tecnologia da mobilidade terrestre, marítima e aeroespacial através de cursos, congressos e competições nacionais e internacionais.
 
-<article id="2">
+Saiba mais no site: SAE BRASIL AERODESIGN
 
-## Lorem ipsum dolor sit amet
+O projeto SAE AeroDesign é um desafio lançado aos estudantes de Engenharia e física que tem como principal objetivo propiciar a difusão e o intercâmbio de técnicas e conhecimentos de Engenharia Aeronáutica entre estudantes e futuros profissionais da engenharia da mobilidade, através de aplicações práticas e da competição entre equipes.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nulla libero, eleifend in euismod eget, fringilla id diam. Proin quis interdum ipsum. Fusce eros metus, hendrerit ut egestas nec, sagittis id velit.
+Ao participar do projeto SAE AeroDesign o aluno se envolve com um caso real de desenvolvimento de projeto aeronáutico, desde sua a concepção, projeto detalhado, construção e testes. No Brasil o projeto recebe o nome de Competição SAE BRASIL AeroDesign.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nulla libero, eleifend in euismod eget, fringilla id diam. Proin quis interdum ipsum. Fusce eros metus, hendrerit ut egestas nec, sagittis id velit.
+##### A Competição
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nulla libero, eleifend in euismod eget, fringilla id diam. Proin quis interdum ipsum. Fusce eros metus, hendrerit ut egestas nec, sagittis id velit.
+Os alunos que participam da Competição SAE BRASIL Aerodesign devem formar equipes que representarão a Instituição de Ensino Superior ao qual estão ligados. Estas equipes são desafiadas anualmente com novos regulamentos baseados em desafios reais enfrentados pela indústria aeronáutica como, por exemplo, otimização multidisciplinar para atendimento de requisitos conflitantes, redução de peso através de otimização estrutural, instrumentação e ensaios em vôo dos protótipos, entre outros.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nulla libero, eleifend in euismod eget, fringilla id diam. Proin quis interdum ipsum. Fusce eros metus, hendrerit ut egestas nec, sagittis id velit.
+A Competição SAE BRASIL AeroDesign é composta por três categorias distintas: Regular, Aberta e Micro, com requisitos específicos aplicáveis à cada uma destas. De maneira geral, a Categoria Regular possui maiores restrições, enquanto as categorias Aberta e Micro dão maior liberdade de projeto às equipes.
 
-</article>
+As avaliações e classificação das equipes são realizadas em duas etapas: Competição de Projeto e Competição de Vôo, onde os projetos são avaliados comparativamente por engenheiros da indústria aeronáutica, com base na concepção e desempenho dos projetos. As equipes campeãs estão aptas a participar da competição SAE Aerodesign Internacional.
 
-<article id="3">
+<br />
 
-## Lorem ipsum dolor sit amet
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nulla libero, eleifend in euismod eget, fringilla id diam. Proin quis interdum ipsum. Fusce eros metus, hendrerit ut egestas nec, sagittis id velit.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nulla libero, eleifend in euismod eget, fringilla id diam. Proin quis interdum ipsum. Fusce eros metus, hendrerit ut egestas nec, sagittis id velit.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nulla libero, eleifend in euismod eget, fringilla id diam. Proin quis interdum ipsum. Fusce eros metus, hendrerit ut egestas nec, sagittis id velit.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nulla libero, eleifend in euismod eget, fringilla id diam. Proin quis interdum ipsum. Fusce eros metus, hendrerit ut egestas nec, sagittis id velit.
+<figure>
+    <img src="https://buskakinews.com.br/wp-content/uploads/2016/11/Come%C3%A7a-amanh%C3%A3-dia-03-em-S%C3%A3o-Jos%C3%A9-dos-Campos-a-Competi%C3%A7%C3%A3o-SAE-BRASIL-AeroDesign-%E2%80%93-Foto-Sergio-Fujiki.jpg" alt="Simbolo SAE Aerodesign Brasil"></img>
+</figure>
 
 </article>
