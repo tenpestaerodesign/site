@@ -2,7 +2,7 @@
 title: "Pesquisa"
 description: "Lista de projetos cientificos gerados a partir das atividades da Tenpest"
 layout: "guide"
-weight: 1
+icon: "globe"
 ---
 
 ###### {$page.description}

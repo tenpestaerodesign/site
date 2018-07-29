@@ -1,8 +1,8 @@
 ---
-title: "Processo Seletivo"
-description: "Informações, lista dos processos seletivos que já ocorreram e os próximos"
+title: "Competições"
+description: "Como a Tenpest representou Pernambuco e a Escola Politécnica de Pernambuco/UPE por aí"
 layout: "guide"
-weight: 2
+icon: "flash"
 ---
 
 ###### {$page.description}
@@ -11,15 +11,11 @@ weight: 2
 
 ## Lorem ipsum dolor sit amet
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nulla libero, eleifend in euismod eget, fringilla id diam. Proin quis interdum ipsum. Fusce eros metus, hendrerit ut egestas nec, sagittis id velit.
-
-```javascript
-var oi = function() {
-	console.log('Oi mundo');
-};
+```xml
+<p>Test, test, test</p>
 ```
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nulla libero, eleifend in euismod eget, fringilla id diam. Proin quis interdum ipsum. Fusce eros metus, hendrerit ut egestas nec, sagittis id velit.
+Nam eu lobortis ipsum. Sed iaculis, lectus pharetra vehicula luctus, lacus sapien malesuada lacus, non convallis dui mauris a magna. Donec accumsan mi lorem, quis mollis sem tempor vel. Fusce iaculis facilisis accumsan. Sed tempus aliquam nisi, eget commodo quam sodales ut. Duis lacus velit, fringilla congue aliquet nec, vulputate vitae nulla. Aenean ultricies risus vel sapien tincidunt, nec hendrerit purus aliquam. Quisque varius accumsan condimentum. Aliquam erat volutpat.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nulla libero, eleifend in euismod eget, fringilla id diam. Proin quis interdum ipsum. Fusce eros metus, hendrerit ut egestas nec, sagittis id velit.
 

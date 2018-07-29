@@ -3,7 +3,6 @@ title: "Contato"
 description: "Mantenha-se conectado com nossa equipe"
 layout: "guide"
 icon: "mail-full"
-weight: 3
 ---
 
 ###### {$page.description}
