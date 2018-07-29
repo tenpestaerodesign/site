@@ -2,9 +2,10 @@
     "name": "Tenpest Aerodesign",
     "short_name": "Tenpest",
     "start_url": "index.html",
-    "background_color": "#FDCB2F",
-    "theme-color": "#FDCB2F",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FDCB2F",
     "display": "standalone",
+    "orientation": "portrait",
     "icons": [
         {
             "src": "images/android-icon-36x36.png",
