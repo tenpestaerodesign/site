@@ -5,7 +5,7 @@
   "scripts": {
     "build": "el build",
     "dev": "el run",
-    "deploy": "cd dist/ && we deploy -p tenpest"
+    "deploy": "el build && cd dist/ && we deploy -p tenpest"
   },
   "devDependencies": {
     "electric-cli": "^2.2.0",
